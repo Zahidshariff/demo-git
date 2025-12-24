@@ -1,2 +1,2 @@
 # demo-git
-how learn git class
+how learn git class.
